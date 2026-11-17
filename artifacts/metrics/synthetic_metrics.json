@@ -1,0 +1,8 @@
+{
+    "injected_anomalies": 100,
+    "detected_anomalies": 94,
+    "missed_anomalies": 6,
+    "detection_rate_percent": 94.0,
+    "spike_magnitude_kw": 2.5,
+    "threshold_kw": 1.7902931551097112
+}
