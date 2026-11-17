@@ -1,0 +1,20 @@
+# Python environments
+newv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw dataset
+data/raw/
+
+# Generated processed data
+data/processed/
+
+# Model artifacts
+artifacts/
+
+# IDE
+.vscode/
